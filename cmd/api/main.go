@@ -7,6 +7,7 @@ import (
 
     "github.com/yourname/go-todo-api/internal/server"
     "github.com/yourname/go-todo-api/internal/todo"
+    "github.com/yourname/go-todo-api/internal/server"
 )
 
 func main() {
